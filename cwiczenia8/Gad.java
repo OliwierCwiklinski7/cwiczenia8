@@ -2,7 +2,7 @@ package cwiczenia8;
 
 class Gad extends Zwierze {
     private boolean jadowity;
-
+    // dziala kod
     public Gad(String nazwa, int wiek, boolean jadowity) {
         super(nazwa, wiek);
         this.jadowity = jadowity;

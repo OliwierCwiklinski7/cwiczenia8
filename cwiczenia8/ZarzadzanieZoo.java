@@ -7,6 +7,7 @@ public class ZarzadzanieZoo {
         Zwierze wez = new Gad("Wąż", 2, true);
 
         Zwierze[] zwierzeta = { lew, orzel, wez };
+        // dziala kod
 
         for (Zwierze z : zwierzeta) {
             z.wyswietlInformacje();

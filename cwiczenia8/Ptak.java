@@ -2,7 +2,7 @@ package cwiczenia8;
 
 class Ptak extends Zwierze {
     private boolean czylata;
-
+    // dziala kod
     public Ptak(String nazwa, int wiek, boolean czylata) {
         super(nazwa, wiek);
         this.czylata = czylata;

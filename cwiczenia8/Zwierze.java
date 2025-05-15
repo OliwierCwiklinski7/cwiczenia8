@@ -3,7 +3,7 @@ package cwiczenia8;
 public abstract class Zwierze {
     protected String imie;
     protected int wiek;
-
+// dziala kod
     public Zwierze(String imie, int wiek) {
         this.imie = imie;
         this.wiek = wiek;
